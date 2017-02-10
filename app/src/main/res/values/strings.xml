@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShowPhotos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fotoTelaCheia">fotoTelaCheia</string>
+    <string
+        name="images_url"
+        >http://noticias.uol.com.br/album/olho-magico/2015/03/19/olho-magico.htm?app=placar-futebol&amp;formato=json&amp;plataforma=iphone&amp;version=2
+    </string>
+    <string name="currentImage">currentImage</string>
+    <string name="contentDescription">image</string>
+
+
+</resources>
+
+    <!--Images url is one of the UOL Images addresses.  -->
+    <!--It's only being used for learning objectives. And it must no be used without UOL -->
+    <!-- permission. -->
+    <!-- I suggest using Fiddler http://www.telerik.com/fiddler and find out other images json. -->
+    <!-- Or check if there is a site with an api to provide images-->
